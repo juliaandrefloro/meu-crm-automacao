@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# WhatsApp session data (contains auth tokens)
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Environment variables (contains API keys)
+.env
+
+# Uploaded files
+uploads/
+
+# macOS
+.DS_Store
